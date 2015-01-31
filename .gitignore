@@ -1,0 +1,16 @@
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+/.lein-*
+/.env
+*.log
+dbtest1.iml
+dbtest1.ipr
+dbtest1.iws
+dbtest1.log
+site.db.mv.db
+site.db.trace.db
